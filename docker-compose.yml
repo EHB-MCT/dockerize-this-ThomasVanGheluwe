@@ -19,6 +19,3 @@ services:
       - POSTGRES_DB
       - POSTGRES_USER
       - POSTGRES_PASSWORD
-
-  reddis:
-    images: reddis
